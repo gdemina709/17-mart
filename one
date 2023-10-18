@@ -6,4 +6,4 @@ git branch -M main
 git remote add origin https://github.com/gdemina709/17-mart.git
 git push -u origin main
 start
-1,2,3,4.5,6,7
+1,2,3,4.5,6,7,8
